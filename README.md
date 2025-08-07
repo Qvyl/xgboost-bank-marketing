@@ -2,7 +2,7 @@
 
 ## 🎯 Goal
 
-The goal of this project is to predict whether a bank client will subscribe to a term deposit based on their personal attributes, past interactions, and economic conditions. This is treated as a binary classification problem where the target variable is `y`, indicating whether the client subscribed (`yes`) or not (`no`).
+The goal of this project is to predict whether a bank client will subscribe to a term deposit based on their personal attributes, past interactions, and economic conditions. This is treated as a binary classification problem where the target variable is `result`, indicating whether the client subscribed (`yes`) or not (`no`).
 
 ---
 
