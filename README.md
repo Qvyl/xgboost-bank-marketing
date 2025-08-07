@@ -8,7 +8,7 @@ The goal of this project is to predict whether a bank client will subscribe to a
 
 ## 🗂️ Dataset
 
-This project uses the **Bank Marketing Dataset** from the [UCI Machine Learning Repository].
+This project uses the **Bank Marketing Dataset** from the UCI Machine Learning Repository.
 
 - **Source**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 - **Description**: Data collected from phone-based direct marketing campaigns run by a Portuguese banking institution. The dataset includes:
@@ -37,9 +37,10 @@ I used **XGBoost (Extreme Gradient Boosting)**, a powerful ensemble learning alg
   - Feature importance was analyzed to understand which features influenced predictions the most
 
 XGBoost was chosen for its ability to:
-- Handle missing data
-- Avoid overfitting through regularization (`lambda`, `alpha`)
-- Efficiently capture complex interactions in tabular datasets
+- It handles large tabular datasets efficiently
+- It provides built-in support for classification tasks
+- It can model complex feature interactions
+- It often achieves strong predictive performance with minimal tuning
 
 ---
 
