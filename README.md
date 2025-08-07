@@ -8,7 +8,7 @@ The goal of this project is to predict whether a bank client will subscribe to a
 
 ## 🗂️ Dataset
 
-This project uses the **Bank Marketing Dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing).
+This project uses the **Bank Marketing Dataset** from the [UCI Machine Learning Repository].
 
 - **Source**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 - **Description**: Data collected from phone-based direct marketing campaigns run by a Portuguese banking institution. The dataset includes:
